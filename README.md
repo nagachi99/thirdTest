@@ -1,5 +1,6 @@
 # thirdTest
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## main
 ## mainEdit
 ## braA
@@ -10,3 +11,8 @@
 ##braB
 >>>>>>> braB
 ## mainEdit in braB
+=======
+##braA
+##braC
+>>>>>>> braC
+## mainEdit in braC
